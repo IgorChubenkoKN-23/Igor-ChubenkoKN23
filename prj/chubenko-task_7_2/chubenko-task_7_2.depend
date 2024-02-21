@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708507583 source:d:\laboratornabmpt7\prj\chubenko-task_7_2\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
