@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Second_course\\\u041E\u041E\u041F\\Laba4OOP\\Laba4_task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF56213-768C-45D5-AD3A-0339CC17EEB8}|Laba4_task2.vcxproj|E:\\Second_course\\\u041E\u041E\u041F\\Laba4OOP\\Laba4_task2\\Laba4_task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBF56213-768C-45D5-AD3A-0339CC17EEB8}|Laba4_task2.vcxproj|solutionrelative:Laba4_task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba4_task2.cpp",
+              "DocumentMoniker": "E:\\Second_course\\\u041E\u041E\u041F\\Laba4OOP\\Laba4_task2\\Laba4_task2.cpp",
+              "RelativeDocumentMoniker": "Laba4_task2.cpp",
+              "ToolTip": "E:\\Second_course\\\u041E\u041E\u041F\\Laba4OOP\\Laba4_task2\\Laba4_task2.cpp",
+              "RelativeToolTip": "Laba4_task2.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T07:57:03.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
