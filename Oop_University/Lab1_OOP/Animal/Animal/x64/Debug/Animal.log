@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Source.cpp
+  Создание кода...
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Animal::setName(void)" (?setName@Animal@@QEAAXXZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Animal::getName(void)const " (?getName@Animal@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Animal::setSpecies(void)" (?setSpecies@Animal@@QEAAXXZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Animal::getSpecies(void)" (?getSpecies@Animal@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Animal::setAge(void)" (?setAge@Animal@@QEAAXXZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Animal::getAge(void)" (?getAge@Animal@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции main.
+E:\Другий курс університет\ООП\Тести С++\Animal\x64\Debug\Animal.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
